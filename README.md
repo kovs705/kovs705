@@ -1,6 +1,6 @@
 ### Hi everyone
 
-My name is Eugene, I'm 19 y.o. Swift developer. Love learning foreign languages and wish someday I could make apps that will help people study!
+My name is Eugene, I'm 20 y.o. Swift developer. Love learning foreign languages and wish someday I could make apps that will help people study!
 
 🔭 **I’m currently working on:**
  - [BlockNote App](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work, tracks something or like to keep everything not only _on phone_, but _also on paper_
