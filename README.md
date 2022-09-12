@@ -12,7 +12,7 @@ My name is Eugene, I'm 20 y.o. Swift developer. Love learning foreign languages,
  📚**Languages:**
  1. Swift, UIKit, SwiftUI, programmatic UI, Storyboard/xib
  2. Objective-C (started learning)
- 2. Java (used for Android Studio)
+ 2. Java (used to code apps in Android Studio)
 
 🌱 **I’m learning:**
 - **Japanese language**
