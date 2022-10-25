@@ -18,6 +18,7 @@ My name is Eugene, I'm 20 y.o. Swift developer. Love learning foreign languages,
 - **App Development with Swift and SwiftUI**
 - **Japanese language**
 - **Guitar, bass and piano playing**
+- **Hacking with iOS: UIKit Edition**
 
 📫 **You can find me:**
  - Discord - kovs705#1948
