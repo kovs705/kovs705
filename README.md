@@ -10,12 +10,15 @@ My name is Eugene, I'm 20 y.o. Swift developer. Love learning foreign languages,
  - [ARDoc](https://github.com/kovs705/ARdoc) - (soon)
  
  📚**Languages:**
- 1. Swift, UIKit, SwiftUI, programmatic UI, Storyboard/xib
- 2. Objective-C (started learning)
+ 1. Swift, UIKit, SwiftUI
+ 2. Objective-C (reading)
  2. Java (used to code apps in Android Studio)
 
 🌱 **I’m learning:**
-- Work in progress
+- Paul Hudson's books and videos
+- Apple's books and empty dev. documentation 😅👨‍💻
+- Articles from the web
 
 📫 **You can find me:**
  - Discord - kovs705#1948
+ - Telegram - kovs705
