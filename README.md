@@ -8,13 +8,13 @@ My name is Eugene, I'm 20 y.o. Swift developer. Love learning foreign languages,
  - [My Progress](https://github.com/kovs705/My-progress) - pet-project app with countdown feature (70-80% done)
  - [WhatsNew package](https://github.com/kovs705/WhatsNewPack) - pet-project package with the view of new features of your app (99% done, needs documentation, little fixes)
  
- 📚**Languages:**
+ 👨‍💻**Languages:**
  1. Swift, UIKit, SwiftUI
  2. Objective-C (reading)
  2. Java (used to code apps in Android Studio)
  3. Foreign languges: Japanese, Finnish and English
 
- 👨‍💻**I’m learning:**
+ 📚**I’m learning:**
 - Paul Hudson's books and videos
 - Apple's books and empty dev. documentation))
 - Articles from the web
