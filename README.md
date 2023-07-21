@@ -5,6 +5,7 @@ My name is Eugene, I'm 21 y.o. Swift developer. Love learning foreign languages,
 🔥 **I’m currently working on:**
  - 2 private projects, UIKit and SwiftUI
  - [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket (40% done, working on [Unsplash API](https://unsplash.com/developers))
+ - [AssetsCollection](https://github.com/kovs705/AssetsCollection) - collection of assets, SwiftUI and UIkit code and snippets, images, colors and other stuff that I will moderate and make better
  - [JMDictionary](https://github.com/kovs705/JMDictionary) - SwiftUI pet-project app, using **JMDict** (the property of the Electronic Dictionary Research and Development Group) to search Japanese words with saving to favorites and editing details
 
 
