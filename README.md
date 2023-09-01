@@ -2,8 +2,6 @@
 
 My name is Eugene, I'm 21 y.o. Swift developer. Love learning foreign languages, coding apps that I want to use daily, and spend my spare time playing on musical instruments
 
-**[My gists](https://gist.github.com/kovs705)**
-
 🔥 **I’m currently working on:**
  - 💊 2 private projects, UIKit and SwiftUI
  - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, uses [Unsplash API](https://unsplash.com/developers)
@@ -23,6 +21,7 @@ My name is Eugene, I'm 21 y.o. Swift developer. Love learning foreign languages,
  - ["SHIFT" study](https://github.com/kovs705/CFTtest) - note taking app with random emoji and a chance to get 💀 with no ability to change the note
 
 📫 **You can also find me there:**
+ - [My Gists page](https://gist.github.com/kovs705)
  - Discord - kovs705#1948
  - Telegram - @kovs705
  - [My LinkedIn page](https://LinkedIn.com/kovs705)
