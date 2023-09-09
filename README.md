@@ -6,7 +6,7 @@ My name is Eugene, I'm 21 y.o. Swift developer. Love learning foreign languages,
  - 💊 2 private projects, UIKit and SwiftUI
  - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, uses [Unsplash API](https://unsplash.com/developers)
  - [📓 BlockNote App](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
- - 💅 [AssetsCollection](https://github.com/kovs705/AssetsCollection) - collection of assets, SwiftUI and UIkit code and snippets, images, colors and other stuff that I will moderate and make better
+ - 💅 [AssetsCollection](https://github.com/kovs705/AssetsCollection) - collection of assets, SwiftUI and UIkit code and snippets, images and colors
 
 
 🙋‍♂️ **My other projects:**
