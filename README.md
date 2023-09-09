@@ -25,4 +25,4 @@ My name is Eugene, I'm 21 y.o. Swift developer. Love learning foreign languages,
  - Discord - kovs705#1948
  - Telegram - @kovs705
  - [My LinkedIn page](https://LinkedIn.com/kovs705)
- - [Download my CV](https://github.com/kovs705/kovs705/files/12553982/RozhkovEugeneCV.pdf)
+ - [Download my CV](https://github.com/kovs705/kovs705/files/12565670/RozhkovEugeneCV.pdf)
