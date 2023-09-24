@@ -6,15 +6,16 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - 💊 2 private projects, UIKit and SwiftUI
  - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, uses [Unsplash API](https://unsplash.com/developers)
  - 📓 [BlockNote](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
- - 💅 [AssetsCollection](https://github.com/kovs705/AssetsCollection) - collection of assets, SwiftUI and UIkit code and snippets, images and colors
+ - 📚 [JMDictionary](https://github.com/kovs705/JMDictionary) - SwiftUI pet-project app, using **JMDict** (the property of the Electronic Dictionary Research and Development Group) to search Japanese words with saving to favorites and editing details
+ 
 
 
 🙋‍♂️ **My other projects:**
- - 📚 [JMDictionary](https://github.com/kovs705/JMDictionary) - SwiftUI pet-project app, using **JMDict** (the property of the Electronic Dictionary Research and Development Group) to search Japanese words with saving to favorites and editing details
  - 🗞 [News App](https://github.com/kovs705/NewsToDay) - read news by your preferences, add in favorites or share with others
  - 🎵 [MyMusicApp](https://github.com/anmikhailov/MyMusicApp) - Listen to music, using [SpotifyAPI](https://developer.spotify.com/documentation/web-api)
- - 📈 [My Progress](https://github.com/kovs705/My-progress) - pet-project app with days countdown feature
  - 🆕 [WhatsNew package](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
+ - 💅 [AssetsCollection package](https://github.com/kovs705/AssetsCollection) - collection of assets, SwiftUI and UIkit code and snippets, images and colors
+ - 📈 [My Progress](https://github.com/kovs705/My-progress) - pet-project app with days countdown feature
 
 🧐 **My test tasks:**
  - ["Reshenie" company](https://github.com/kovs705/Reshenie-Test) - get top-250 films and TV shows or search by a keyword in a fast way
