@@ -7,8 +7,10 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, uses [Unsplash API](https://unsplash.com/developers)
  - 📓 [BlockNote](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
  - 📚 [JMDictionary](https://github.com/kovs705/JMDictionary) - SwiftUI pet-project app, using **JMDict** (the property of the Electronic Dictionary Research and Development Group) to search Japanese words with saving to favorites and editing details
- 
 
+🎮 **I also started developing games:**
+ - ♟️ [Chess](https://github.com/kovs705/ChessGame) - A chess game to run on iOS and iPadOS using SpriteKit
+ - 🍪 [Clicker](https://github.com/kovs705/MyClickerApp) - KMP project of a Clicker app
 
 🙋‍♂️ **My other projects:**
  - 🎬 [Kinopoisk searcher](https://github.com/kovs705/Reshenie-Test) - get top-250 films and TV shows or search by a keyword using unofficial kinopoisk API
