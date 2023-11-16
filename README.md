@@ -19,6 +19,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - 🆕 [WhatsNew package](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
  - 💅 [AssetsCollection package](https://github.com/kovs705/AssetsCollection) - collection of assets, SwiftUI and UIkit code and snippets, images and colors
  - 📈 [My Progress](https://github.com/kovs705/My-progress) - pet-project app with days countdown feature
+ - 💬 [P_Chat](https://github.com/kovs705/P_Chat) - work in progress. Multipeer Connectivity chat app with one message
 
 🧐 **My test tasks:**
  - ["SHIFT" study](https://github.com/kovs705/CFTtest) - note taking app with random emoji and a chance to get 💀 with no ability to change the note
