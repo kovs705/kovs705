@@ -21,8 +21,8 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - 📈 [My Progress](https://github.com/kovs705/My-progress) - pet-project app with days countdown feature
  - 💬 [P_Chat](https://github.com/kovs705/P_Chat) - work in progress. Multipeer Connectivity chat app with one message
 
-🧐 **My test tasks:**
- - ["SHIFT" study](https://github.com/kovs705/CFTtest) - note taking app with random emoji and a chance to get 💀 with no ability to change the note
+🧐 **Additional resources:**
+ - 🇨🇳 [Chinese Language roadmap](https://kovs705.notion.site/Chinese-roadmap-324bbe711e934b40880eaee6d310adb5?pvs=4) - Chinese learning path (work in progress)
 
 📫 **You can also find me there:**
  - [My Gists page](https://gist.github.com/kovs705)
