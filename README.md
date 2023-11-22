@@ -24,6 +24,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 🧐 **Additional resources:**
  - 🇨🇳 [Chinese Language roadmap](https://kovs705.notion.site/Chinese-roadmap-324bbe711e934b40880eaee6d310adb5?pvs=4) - Chinese learning path (work in progress)
  - 📁 [Git ignore](https://github.com/kovs705/KMP-git-ignore) - Git ignore template for iOS project
+ - 💼 [iOS Scripts](https://github.com/kovs705/iOSScripts)
 
 📫 **You can also find me there:**
  - [My Gists page](https://gist.github.com/kovs705)
