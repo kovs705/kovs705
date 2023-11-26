@@ -31,4 +31,4 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - Discord - kovs705#1948
  - Telegram - @kovs705
  - [My LinkedIn page](https://LinkedIn.com/kovs705)
- - [Download my CV](https://github.com/kovs705/kovs705/files/12565670/RozhkovEugeneCV.pdf)
+ - [My Resume](https://kovs705.github.io/Resume/)
