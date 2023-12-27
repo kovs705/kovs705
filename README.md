@@ -8,6 +8,9 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - 📓 [BlockNote](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
  - 📚 [JMDictionary](https://github.com/kovs705/JMDictionary) - SwiftUI pet-project app, using **JMDict** (the property of the Electronic Dictionary Research and Development Group) to search Japanese words with saving to favorites and editing details
 
+📚 **My articles:**
+ - [Abstraction in Swift, RU](https://habr.com/ru/articles/782834/)
+
 🎮 **I also started developing games:**
  - ♟️ [Chess](https://github.com/kovs705/ChessGame) - A chess game to run on iOS and iPadOS using SpriteKit
  - 🍪 [Clicker](https://github.com/kovs705/MyClickerApp) - KMP project of a Clicker app
@@ -22,7 +25,6 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - 💬 [P_Chat](https://github.com/kovs705/P_Chat) - work in progress. Multipeer Connectivity chat app with one message
 
 🧐 **Additional resources:**
- - 🇨🇳 [Chinese Language roadmap](https://kovs705.notion.site/Chinese-roadmap-324bbe711e934b40880eaee6d310adb5?pvs=4) - Chinese learning path (work in progress)
  - 📁 [Git ignore](https://github.com/kovs705/KMP-git-ignore) - Git ignore template for iOS project
  - 💼 [iOS Scripts](https://github.com/kovs705/iOSScripts) - 4 different scripts and executable apps
 
