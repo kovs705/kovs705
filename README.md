@@ -11,10 +11,6 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 📚 **My articles:**
  - [Abstraction in Swift, RU](https://habr.com/ru/articles/782834/)
 
-🎮 **I also started developing games:**
- - ♟️ [Chess](https://github.com/kovs705/ChessGame) - A chess game to run on iOS and iPadOS using SpriteKit
- - 🍪 [Clicker](https://github.com/kovs705/MyClickerApp) - KMP project of a Clicker app
-
 🙋‍♂️ **My other projects:**
  - 🎬 [Kinopoisk searcher](https://github.com/kovs705/Reshenie-Test) - get top-250 films and TV shows or search by a keyword using unofficial kinopoisk API
  - 🗞 [News App](https://github.com/kovs705/NewsToDay) - read news by your preferences, add in favorites or share with others
