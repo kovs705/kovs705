@@ -1,4 +1,4 @@
-### Hi everyone
+# Hi everyone 👋
 
 My name is Eugene, I'm Swift developer. Love learning foreign languages, coding apps that I want to use daily and spend my spare time playing on musical instruments
 
