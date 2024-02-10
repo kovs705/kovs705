@@ -10,9 +10,9 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 
 📚 **My articles:**
  - [Abstraction in Swift, RU](https://habr.com/ru/articles/782834/)
- - Breaking the Xcode - in progress
+ - Breaking the Xcode - in progress (75% done)
  - Building new notes with Journal API - in progress
- - MVVM in KMP - in progress
+ - MVVM in KMP - in progress (25% done)
 
 🙋‍♂️ **My other projects:**
  - 🎬 [Kinopoisk searcher](https://github.com/kovs705/Reshenie-Test) - get top-250 films and TV shows or search by a keyword using unofficial kinopoisk API
