@@ -3,9 +3,9 @@
 My name is Eugene, I'm Swift developer. Love learning foreign languages, coding apps that I want to use daily and spend my spare time playing on musical instruments
 
 🔥 **I’m currently working on:**
- - 💊 2 private projects, UIKit and SwiftUI
- - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, uses [Unsplash API](https://unsplash.com/developers)
- - 📓 [BlockNote](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
+ - 📱 private production-ready app
+ - 💊 private multiplatform app
+ - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, using [Unsplash API](https://unsplash.com/developers)
  - 📚 [JMDictionary](https://github.com/kovs705/JMDictionary) - SwiftUI pet-project app, using **JMDict** (the property of the Electronic Dictionary Research and Development Group) to search Japanese words with saving to favorites and editing details
 
 📚 **My articles:**
@@ -15,6 +15,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - MVVM in KMP - in progress (25% done)
 
 🙋‍♂️ **My other projects:**
+ - 📓 [BlockNote](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
  - 🎬 [Kinopoisk searcher](https://github.com/kovs705/Reshenie-Test) - get top-250 films and TV shows or search by a keyword using unofficial kinopoisk API
  - 🗞 [News App](https://github.com/kovs705/NewsToDay) - read news by your preferences, add in favorites or share with others
  - 🎵 [MyMusicApp](https://github.com/anmikhailov/MyMusicApp) - Listen to music, using [SpotifyAPI](https://developer.spotify.com/documentation/web-api)
