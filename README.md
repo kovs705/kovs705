@@ -26,8 +26,8 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 🧐 **Additional resources:**
  - 📁 [Git ignore](https://github.com/kovs705/KMP-git-ignore) - Git ignore template for iOS project
  - 💼 [iOS Scripts](https://github.com/kovs705/iOSScripts) - 4 different scripts and executable apps
- - 🖥️ [Swift ComputerScience](https://github.com/kovs705/Swift-ComputerScience) - challenge to learn CS everyday using public roadmap (link in desc.)
- - 🔨 [Xcode 15.2 Header files](https://github.com/kovs705/Xcode15-RuntimeHeaders)
+ - 🖥️ [Swift ComputerScience](https://github.com/kovs705/Swift-ComputerScience) - CS in Swift
+ - 🔨 [Xcode 15.2 Header files](https://github.com/kovs705/Xcode15-RuntimeHeaders) - headers of Xcode under the hood
 
 📫 **You can also find me there:**
  - [My Gists page](https://gist.github.com/kovs705)
