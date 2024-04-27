@@ -3,8 +3,9 @@
 My name is Eugene, I'm Swift developer. Love learning foreign languages, coding apps that I want to use daily and spend my spare time playing on musical instruments
 
 🔥 **I’m currently working on:**
- - 📱 private production-ready app
  - 💊 private multiplatform app
+ - 🧪 Preview Debugger (see in `my packages` below)
+ - 📱 SquidNote (see in `my other projects` below)
 
 📚 **My articles:**
  - [Abstraction in Swift, RU](https://habr.com/ru/articles/782834/)
@@ -14,9 +15,10 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 
 📦 **My packages:**
  - 🆕 [WhatsNew package](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
- - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - 🔒(private) package to test accessibility and locale in #DEBUG or in preview
+ - 🧪 Preview Debugger - 🔒(private) package to test accessibility and locale in #DEBUG or in preview
 
 🙋‍♂️ **My other projects:**
+ - 📱 SquidNote - 🔒(private) production-ready note app with Rich-Text Editor and new Apple frameworks
  - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, using [Unsplash API](https://unsplash.com/developers)
  - 📓 [BlockNote](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
  - 📚 [JMDictionary](https://github.com/kovs705/JMDictionary) - SwiftUI pet-project app, using **JMDict** (the property of the Electronic Dictionary Research and Development Group) to search Japanese words with saving to favorites and editing details
