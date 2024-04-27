@@ -3,7 +3,7 @@
 My name is Eugene, I'm Swift developer. Love learning foreign languages, coding apps that I want to use daily and spend my spare time playing on musical instruments
 
 🔥 **I’m currently working on:**
- - 💊 private multiplatform app
+ - 💊 StartUp porject in India
  - 🧪 Preview Debugger (see in `my packages` below)
  - 📱 SquidNote (see in `my other projects` below)
 
