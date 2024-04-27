@@ -5,9 +5,6 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 🔥 **I’m currently working on:**
  - 📱 private production-ready app
  - 💊 private multiplatform app
- - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, using [Unsplash API](https://unsplash.com/developers)
- - 📓 [BlockNote](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
- 
 
 📚 **My articles:**
  - [Abstraction in Swift, RU](https://habr.com/ru/articles/782834/)
@@ -15,12 +12,17 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - Building new notes with Journal API - in progress
  - MVVM in KMP - in progress (25% done)
 
+📦 **My packages:**
+ - 🆕 [WhatsNew package](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
+ - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - 🔒(private) package to test accessibility and locale in #DEBUG or in preview
+
 🙋‍♂️ **My other projects:**
+ - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, using [Unsplash API](https://unsplash.com/developers)
+ - 📓 [BlockNote](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
  - 📚 [JMDictionary](https://github.com/kovs705/JMDictionary) - SwiftUI pet-project app, using **JMDict** (the property of the Electronic Dictionary Research and Development Group) to search Japanese words with saving to favorites and editing details
  - 🎬 [Kinopoisk searcher](https://github.com/kovs705/Reshenie-Test) - get top-250 films and TV shows or search by a keyword using unofficial kinopoisk API
  - 🗞 [News App](https://github.com/kovs705/NewsToDay) - read news by your preferences, add in favorites or share with others
  - 🎵 [MyMusicApp](https://github.com/anmikhailov/MyMusicApp) - Listen to music, using [SpotifyAPI](https://developer.spotify.com/documentation/web-api)
- - 🆕 [WhatsNew package](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
  - 💬 [P_Chat](https://github.com/kovs705/P_Chat) - work in progress. Multipeer Connectivity chat app with one message
 
 🧐 **Additional resources:**
