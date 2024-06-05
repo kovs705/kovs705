@@ -4,7 +4,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 
 🔥 **I’m currently working on:**
  - 💊 StartUp project in India
- - 🧪 Preview Debugger (see in `my packages` below)
+ - 🧪 Preview Debugger package to test accessibility, UI and locale in directly in your SwiftUI environment
  - 📱 SquidNote (see in `my other projects` below)
 
 📚 **My articles:**
@@ -15,7 +15,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 
 📦 **My packages:**
  - 🆕 [WhatsNew package](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
- - 🧪 Preview Debugger - 🔒(private) package to test accessibility and locale in #DEBUG or in preview
+ - 🧪 Preview Debugger - package to test accessibility, UI and locale in directly in your SwiftUI environment
 
 🙋‍♂️ **My other projects:**
  - 📱 SquidNote - 🔒(private) production-ready note app with Rich-Text Editor and new Apple frameworks
