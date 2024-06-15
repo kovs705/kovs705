@@ -4,8 +4,8 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 
 🔥 **I’m currently working on:**
  - 💊 StartUp project in India
- - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - package to test accessibility, UI and locale directly in your SwiftUI app
- - ✍️ MDEdittttor - in progress
+ - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - package to test accessibility and UI (SwiftUI)
+ - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
  - 📱 SquidNote (see in `my other projects` below)
 
 📚 **My articles:**
@@ -19,7 +19,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - package to test accessibility, UI and locale in directly in your SwiftUI environment
 
 🙋‍♂️ **My other projects:**
- - 📱 SquidNote - 🔒(private) production-ready note app with Rich-Text Editor and new Apple frameworks
+ - 📱 SquidNote - 🔒(private) production note app with my own Markdown editor and new Apple frameworks
  - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, using [Unsplash API](https://unsplash.com/developers)
  - 📓 [BlockNote](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
  - 📚 [JMDictionary](https://github.com/kovs705/JMDictionary) - SwiftUI pet-project app, using **JMDict** (the property of the Electronic Dictionary Research and Development Group) to search Japanese words with saving to favorites and editing details
