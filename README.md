@@ -15,6 +15,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - MVVM in KMP - in progress (25% done)
 
 📦 **My packages:**
+ - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
  - 🆕 [WhatsNew package](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
  - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - package to test accessibility, UI and locale in directly in your SwiftUI environment
 
