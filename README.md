@@ -34,7 +34,6 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 
 📫 **You can also find me there:**
  - [My Gists page](https://gist.github.com/kovs705)
- - Discord - kovs705#1948
  - Telegram - @kovs705
  - [My LinkedIn page](https://LinkedIn.com/kovs705)
  - [My Resume](https://kovs705.github.io/Resume/)
