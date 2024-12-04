@@ -4,20 +4,17 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 
 🔥 **I’m currently working on:**
  - 💊 [LifetimeHealth](https://lifetimehealth.in) - StartUp project in India
+ - 📱 SquidNote - 🔒(private) production note app with my own Markdown editor and Apple frameworks
  - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - package to test accessibility and UI (SwiftUI)
  - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
- - 📱 SquidNote (see in `my other projects` below)
 
 📚 **My articles:**
  - [Abstraction in Swift, RU](https://habr.com/ru/articles/782834/)
- - Breaking the Xcode - in progress (75% done)
- - Building new notes with Journal API - in progress
- - MVVM in KMP - in progress (25% done)
 
 📦 **My packages:**
- - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
+ - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - pet-project Markdown Editor Package (UIKit/SwiftUI)
  - 🆕 [WhatsNew package](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
- - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - package to test accessibility, UI and locale in directly in your SwiftUI environment
+ - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - pet-project package to test accessibility, UI and locale in directly in your SwiftUI environment
 
 🙋‍♂️ **My other projects:**
  - 📱 SquidNote - 🔒(private) production note app with my own Markdown editor and new Apple frameworks
