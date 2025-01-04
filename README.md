@@ -13,16 +13,13 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 
 📦 **My packages:**
  - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - pet-project Markdown Editor Package (UIKit/SwiftUI)
- - 🆕 [WhatsNew package](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
+ - 🆕 [Whats New](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
  - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - pet-project package to test accessibility, UI and locale in directly in your SwiftUI environment
 
 🙋‍♂️ **My other projects:**
  - 📱 SquidNote - 🔒(private) production note app with my own Markdown editor and new Apple frameworks
  - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, using [Unsplash API](https://unsplash.com/developers)
- - 📓 [BlockNote](https://github.com/kovs705/BlockNote-app) - notemaking app for those who study, work or tracks something
- - 📚 [JMDictionary](https://github.com/kovs705/JMDictionary) - SwiftUI pet-project app, using **JMDict** (the property of the Electronic Dictionary Research and Development Group) to search Japanese words with saving to favorites and editing details
  - 🎬 [Kinopoisk searcher](https://github.com/kovs705/Reshenie-Test) - get top-250 films and TV shows or search by a keyword using unofficial kinopoisk API
- - 💬 [P_Chat](https://github.com/kovs705/P_Chat) - work in progress. Multipeer Connectivity chat app with one message
 
 🧐 **Additional resources:**
  - 📁 [Git ignore](https://github.com/kovs705/KMP-git-ignore) - Git ignore template for iOS project
