@@ -9,7 +9,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
  - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
 
 📚 **My articles:**
- - [Abstraction in Swift, RU](https://habr.com/ru/articles/782834/)
+ - Abstraction in Swift - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
 
 📦 **My packages:**
  - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - pet-project Markdown Editor Package (UIKit/SwiftUI)
