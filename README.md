@@ -5,7 +5,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 🔥 **I’m currently working on:**
  - 💊 [LifetimeHealth](https://lifetimehealth.in) - StartUp project in India
  - 📱 SquidNote - 🔒(private) production note app with my own Markdown editor and Apple frameworks
- - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - package to test accessibility and UI (SwiftUI)
+ - <img src="Resources/Preview Debugger.png" alt="Portal Icon" width="24" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - package to test accessibility and UI (SwiftUI)
  - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
 
 📚 **My articles:**
@@ -14,7 +14,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 📦 **My packages:**
  - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - pet-project Markdown Editor Package (UIKit/SwiftUI)
  - 🆕 [Whats New](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
- - 🧪 [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - pet-project package to test accessibility, UI and locale in directly in your SwiftUI environment
+ - <img src="Resources/Preview Debugger.png" alt="Portal Icon" width="24" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - pet-project package to test accessibility, UI and locale in directly in your SwiftUI environment
 
 🙋‍♂️ **My other projects:**
  - 📱 SquidNote - 🔒(private) production note app with my own Markdown editor and new Apple frameworks
