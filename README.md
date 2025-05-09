@@ -13,7 +13,7 @@ My name is Eugene, I'm Swift developer. Love learning foreign languages, coding 
 
 📦 **My packages:**
  - ✍️ [MDEdittttor](https://github.com/kovs705/MDEdittttor) - pet-project Markdown Editor Package (UIKit/SwiftUI)
- - 🆕 [Whats New](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
+ - <img src="Resources/What's New.png" alt="Portal Icon" width="24" style="vertical-align:center; margin-right:5px;"> [Whats New](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
  - <img src="Resources/Preview Debugger.png" alt="Portal Icon" width="24" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - pet-project package to test accessibility, UI and locale in directly in your SwiftUI environment
 
 🙋‍♂️ **My other projects:**
