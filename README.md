@@ -1,6 +1,6 @@
-## Hi everyone
+## Hello! ¡Hola! こんにちは! Привет!
 
-My name is Eugene, I'm Swift developer. Love learning foreign languages, coding apps that I want to use daily and spend my spare time playing on musical instruments
+My name is Eugene. I’m a Swift developer working to build better products and bring ideas to life.
 
 🔥 **I’m currently working on:**
  - 💊 [LifetimeHealth](https://lifetimehealth.in) - StartUp project in India
