@@ -3,7 +3,7 @@
 My name is Eugene. I’m a Swift developer working to build better products and bring ideas to life.
 
 🔥 **I’m currently working on:**
- - 💊 [LifetimeHealth](https://lifetimehealth.in) - StartUp project in India
+ - <img src="Resources/LifetimeHealth.png" alt="Lifetime Health" width="24" style="vertical-align:center; margin-right:5px;"> [LifetimeHealth](https://lifetimehealth.in) - StartUp project in India
  - <img src="Resources/SquidNote.png" alt="SquidNote Application" width="24" style="vertical-align:center; margin-right:5px;"> SquidNote - my own project, AppStore is [**coming soon**]
  - <img src="Resources/Preview Debugger.png" alt="Preview Debugger Library" width="24" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - package to test accessibility and UI (SwiftUI)
  - <img src="Resources/MDEdittttor.png" alt="MDEdittttor Library" width="24" style="vertical-align:center; margin-right:5px;"> [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
