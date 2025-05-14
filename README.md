@@ -30,4 +30,4 @@ My name is Eugene. I’m a Swift developer working to build better products and 
  - [My Gists page](https://gist.github.com/kovs705)
  - [Telegram](https://t.me/kovs705) - @kovs705
  - [My LinkedIn page](https://www.linkedin.com/in/kovs705/)
- - [My Page]([https://kovs705.github.io/Resume/](https://kovs705.github.io/PVresume/))
+ - [My Page](https://kovs705.github.io/PVresume/)
