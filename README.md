@@ -14,6 +14,7 @@ My name is Eugene. I’m a Swift developer working to build better products and 
  - <img src="Resources/What's New.png" alt="What's New Library" width="24" style="vertical-align:center; margin-right:5px;"> [Whats New](https://github.com/kovs705/WhatsNewPack) - pet-project package with the SwiftUI view of new features for your app
  - <img src="Resources/Preview Debugger.png" alt="Preview Debugger Library" width="24" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - pet-project package to test accessibility, UI and locale in directly in your SwiftUI environment
  - <img src="Resources/AccessDenied.png" alt="Access Denied Library" width="24" style="vertical-align:center; margin-right:5px;"> [AccessDenied](https://github.com/kovs705/AccessDenied) - small, bite-sized package to hide sensitive content in SwiftUI
+ - [NotchTransition](https://github.com/kovs705/NotchTransition) - Custom transition from the notch
 
 🙋‍♂️ **My other projects:**
  - <img src="Resources/SquidNote.png" alt="SquidNote Application" width="24" style="vertical-align:center; margin-right:5px;"> SquidNote - my own project, AppStore is [**coming soon**]
