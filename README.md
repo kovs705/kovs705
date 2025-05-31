@@ -4,7 +4,7 @@ My name is Eugene. I’m a Swift developer working to build better products and 
 
 🔥 **I’m currently working on:**
  - <img src="Resources/LifetimeHealth.png" alt="Lifetime Health" width="28" style="vertical-align:center; margin-right:5px;"> [LifetimeHealth](https://lifetimehealth.in) - StartUp project in India
- - <img src="Resources/SquidNote.png" alt="SquidNote Application" width="28" style="vertical-align:center; margin-right:5px;"> SquidNote - my own project, AppStore is [**coming soon**]
+ - <img src="Resources/SquidNote.png" alt="SquidNote Application" width="28" style="vertical-align:center; margin-right:5px;"> [SquidNote](https://github.com/kovs705/SquidNote) - my own project, AppStore is [**coming soon**]
  - <img src="Resources/NotchTransition.png" alt="NotchTransition Library" width="28" style="vertical-align:center; margin-right:5px;"> [NotchTransition](https://github.com/kovs705/NotchTransition) - Custom navigation transition from the iPhone's notch
 
 📚 **My articles:**
@@ -16,8 +16,7 @@ My name is Eugene. I’m a Swift developer working to build better products and 
  - <img src="Resources/AccessDenied.png" alt="Access Denied Library" width="28" style="vertical-align:center; margin-right:5px;"> [AccessDenied](https://github.com/kovs705/AccessDenied) - Hide sensitive content in SwiftUI
  - <img src="Resources/NotchTransition.png" alt="NotchTransition Library" width="28" style="vertical-align:center; margin-right:5px;"> [NotchTransition](https://github.com/kovs705/NotchTransition) - Custom navigation transition from the iPhone's notch
 
-🙋‍♂️ **My other projects:**
- - <img src="Resources/SquidNote.png" alt="SquidNote Application" width="28" style="vertical-align:center; margin-right:5px;"> SquidNote - my own project, AppStore is [**coming soon**]
+🙋‍♂️ **My old projects:**
  - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, using [Unsplash API](https://unsplash.com/developers)
  - 🎬 [Kinopoisk searcher](https://github.com/kovs705/Reshenie-Test) - get top-250 films and TV shows or search by a keyword using unofficial kinopoisk API
 
