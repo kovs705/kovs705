@@ -11,10 +11,10 @@ My name is Eugene. I’m a Swift developer working to build better products and 
  - Abstraction in Swift - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
 
 📦 **My packages:**
- - <img src="Resources/MDEdittttor.png" alt="MDEdittttor Library" width="28" style="vertical-align:center; margin-right:5px;"> [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
+ - <img src="Resources/NotchTransition.png" alt="NotchTransition Library" width="28" style="vertical-align:center; margin-right:5px;"> [NotchTransition](https://github.com/kovs705/NotchTransition) - Custom navigation transition from the iPhone's notch
  - <img src="Resources/Preview Debugger.png" alt="Preview Debugger Library" width="28" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - Accessibility, UI and locale in directly in your SwiftUI environment
  - <img src="Resources/AccessDenied.png" alt="Access Denied Library" width="28" style="vertical-align:center; margin-right:5px;"> [AccessDenied](https://github.com/kovs705/AccessDenied) - Hide sensitive content in SwiftUI
- - <img src="Resources/NotchTransition.png" alt="NotchTransition Library" width="28" style="vertical-align:center; margin-right:5px;"> [NotchTransition](https://github.com/kovs705/NotchTransition) - Custom navigation transition from the iPhone's notch
+ - <img src="Resources/MDEdittttor.png" alt="MDEdittttor Library" width="28" style="vertical-align:center; margin-right:5px;"> [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
 
 🙋‍♂️ **My old projects:**
  - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, using [Unsplash API](https://unsplash.com/developers)
