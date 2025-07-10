@@ -21,6 +21,7 @@ My name is Eugene. I’m a Swift developer working to build better products and 
  - 🎬 [Kinopoisk searcher](https://github.com/kovs705/Reshenie-Test) - get top-250 films and TV shows or search by a keyword using unofficial kinopoisk API
 
 🧐 **Additional resources:**
+ - 🌌 [iOS 26 Glass](https://gist.github.com/kovs705/06c770c288e726cb5f862917f899de71) - Support new Glass Effect without errors
  - 📁 [Git ignore](https://github.com/kovs705/KMP-git-ignore) - Git ignore template for iOS project
  - 💼 [iOS Scripts](https://github.com/kovs705/iOSScripts) - 4 different scripts and executable apps
  - 🔨 [Xcode 15.2 Header files](https://github.com/kovs705/Xcode15-RuntimeHeaders) - headers of Xcode under the hood
