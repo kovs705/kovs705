@@ -25,6 +25,7 @@ My name is Eugene. I’m a Swift developer working to build better products and 
  - 📁 [Git ignore](https://github.com/kovs705/KMP-git-ignore) - Git ignore template for iOS project
  - 💼 [iOS Scripts](https://github.com/kovs705/iOSScripts) - 4 different scripts and executable apps
  - 🔨 [Xcode 15.2 Header files](https://github.com/kovs705/Xcode15-RuntimeHeaders) - headers of Xcode under the hood
+ - 🧪 [Useful Links](https://gist.github.com/kovs705/c047c7fb17e0bb788997e7a87b33bb52) - My small list of useful links for better development
 
 📫 **You can also find me there:**
  - [My Gists page](https://gist.github.com/kovs705)
