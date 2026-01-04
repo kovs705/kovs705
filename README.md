@@ -1,6 +1,6 @@
 ## Hello! ¡Hola! こんにちは! Terve! Привет!
 
-My name is Eugene. I’m a Swift developer working to build better products and bring ideas to life.
+Well, ios is not the only platform I build for
 
 🔥 **I’m currently working on:**
  - <img src="Resources/LifetimeHealth.png" alt="Lifetime Health" width="28" style="vertical-align:center; margin-right:5px;"> [LifetimeHealth](https://lifetimehealth.in) - StartUp project in India
@@ -15,10 +15,6 @@ My name is Eugene. I’m a Swift developer working to build better products and 
  - <img src="Resources/AccessDenied.png" alt="Access Denied Library" width="28" style="vertical-align:center; margin-right:5px;"> [AccessDenied](https://github.com/kovs705/AccessDenied) - Hide sensitive content in SwiftUI
  - <img src="Resources/MDEdittttor.png" alt="MDEdittttor Library" width="28" style="vertical-align:center; margin-right:5px;"> [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
 
-🙋‍♂️ **My old projects:**
- - 🌿 [Ambience](https://github.com/kovs705/Ambience) - UIKit pet-project app with relaxing sounds of nature in you pocket, using [Unsplash API](https://unsplash.com/developers)
- - 🎬 [Kinopoisk searcher](https://github.com/kovs705/Reshenie-Test) - get top-250 films and TV shows or search by a keyword using unofficial kinopoisk API
-
 🧐 **Additional resources:**
  - 🌌 [iOS 26 Glass](https://gist.github.com/kovs705/06c770c288e726cb5f862917f899de71) - Support new Glass Effect without errors
  - 📁 [Git ignore](https://github.com/kovs705/KMP-git-ignore) - Git ignore template for iOS project
@@ -28,6 +24,6 @@ My name is Eugene. I’m a Swift developer working to build better products and 
 
 📫 **You can also find me there:**
  - [My Gists page](https://gist.github.com/kovs705)
- - [Telegram](https://t.me/kovs705) - @kovs705
- - [My LinkedIn page](https://www.linkedin.com/in/kovs705/)
+ - [Contact me through Telegram](https://t.me/kovs705) - @kovs705
+ - [My LinkedIn page for corps](https://www.linkedin.com/in/kovs705/)
  - [My Page](https://kovs705.github.io/PVresume/)
