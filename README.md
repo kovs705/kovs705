@@ -4,7 +4,7 @@ Well, ios is not the only platform I build for
 
 🔥 **I’m currently working on:**
  - <img src="Resources/LifetimeHealth.png" alt="Lifetime Health" width="28" style="vertical-align:center; margin-right:5px;"> [LifetimeHealth](https://lifetimehealth.in) - StartUp project in India
- - <img src="Resources/SquidNote.png" alt="SquidNote Application" width="28" style="vertical-align:center; margin-right:5px;"> [SquidNote](https://github.com/kovs705/SquidNote) - my own project, AppStore is [**coming soon**]
+ - <img src="Resources/SquidNote.png" alt="SquidNote Application" width="28" style="vertical-align:center; margin-right:5px;"> Squiddy-Labs - my own project, AppStore is [**coming soon**]
 
 📚 **My articles:**
  - Abstraction in Swift - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
