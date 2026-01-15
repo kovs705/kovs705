@@ -1,6 +1,5 @@
 ## Hello! ¡Hola! こんにちは! Terve! Привет!
 
-Well, ios is not the only platform I build for
 
 🔥 **I’m currently working on:**
  - <img src="Resources/LifetimeHealth.png" alt="Lifetime Health" width="28" style="vertical-align:center; margin-right:5px;"> [LifetimeHealth](https://lifetimehealth.in) - StartUp project in India
