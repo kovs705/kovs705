@@ -10,7 +10,7 @@
 
 📦 **My packages:**
  - <img src="Resources/NotchTransition.png" alt="NotchTransition Library" width="28" style="vertical-align:center; margin-right:5px;"> [NotchTransition](https://github.com/kovs705/NotchTransition) - Custom navigation transition from the iPhone's notch
- - <img src="Resources/Preview Debugger.png" alt="Preview Debugger Library" width="28" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - Accessibility, UI and locale in directly in your SwiftUI environment
+ - <img src="Resources/Preview Debugger.png" alt="Preview Debugger Library" width="28" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - Accessibility, UI and locale directly in your SwiftUI testing environment
  - <img src="Resources/AccessDenied.png" alt="Access Denied Library" width="28" style="vertical-align:center; margin-right:5px;"> [AccessDenied](https://github.com/kovs705/AccessDenied) - Hide sensitive content in SwiftUI
  - <img src="Resources/MDEdittttor.png" alt="MDEdittttor Library" width="28" style="vertical-align:center; margin-right:5px;"> [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
 
