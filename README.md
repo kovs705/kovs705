@@ -23,6 +23,6 @@
 
 📫 **You can also find me there:**
  - [My Gists page](https://gist.github.com/kovs705)
- - [Contact me through Telegram](https://t.me/kovs705) - @kovs705
- - [My LinkedIn page for corps](https://www.linkedin.com/in/kovs705/)
+ - [My Telegram](https://t.me/kovs705) - @kovs705
+ - [My LinkedIn](https://www.linkedin.com/in/kovs705/)
  - [My Page](https://kovs705.github.io/PVresume/)
