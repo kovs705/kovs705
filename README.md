@@ -1,5 +1,6 @@
 ## Hello! ¡Hola! こんにちは! Terve! Привет!
 
+Average Nintendo enjoyer, iOS Dev, microcontroller and single-board computers fan, and also a happy dad!
 
 🔥 **I’m currently working on:**
  - <img src="Resources/LifetimeHealth.png" alt="Lifetime Health" width="28" style="vertical-align:center; margin-right:5px;"> [LifetimeHealth](https://lifetimehealth.in) - StartUp project in India
