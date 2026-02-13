@@ -16,6 +16,7 @@ Average Nintendo enjoyer, iOS Dev, microcontroller and single-board computers fa
  - <img src="Resources/MDEdittttor.png" alt="MDEdittttor Library" width="28" style="vertical-align:center; margin-right:5px;"> [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
 
 🧐 **Additional resources:**
+ - 🎨 [Plist2Hex.py](https://gist.github.com/kovs705/ea416d65697ef469c9526465ec6706ce) - Convert Xcode theme to list of HEX colors with titles
  - 🌌 [iOS 26 Glass](https://gist.github.com/kovs705/06c770c288e726cb5f862917f899de71) - Support new Glass Effect without errors
  - 📁 [Git ignore](https://github.com/kovs705/KMP-git-ignore) - Git ignore template for iOS project
  - 💼 [iOS Scripts](https://github.com/kovs705/iOSScripts) - 4 different scripts and executable apps
