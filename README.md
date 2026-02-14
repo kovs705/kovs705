@@ -7,7 +7,7 @@ Average Nintendo enjoyer, iOS Dev, microcontroller and single-board computers fa
  - <img src="Resources/SquidNote.png" alt="SquidNote Application" width="28" style="vertical-align:center; margin-right:5px;"> Squiddy-Labs - my own project, AppStore is [**coming soon**]
 
 📚 **My articles:**
- - Abstraction in Swift - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
+ - Abstraction in Swift, comparison with Kotlin - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
 
 📦 **My packages:**
  - <img src="Resources/NotchTransition.png" alt="NotchTransition Library" width="28" style="vertical-align:center; margin-right:5px;"> [NotchTransition](https://github.com/kovs705/NotchTransition) - Custom navigation transition from the iPhone's notch
