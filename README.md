@@ -10,6 +10,7 @@ Average Nintendo enjoyer, iOS Dev, microcontroller and single-board computers fa
  - Abstraction in Swift, comparison with Kotlin - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
 
 📦 **My packages:**
+- <img src="Resources/TokenEdittttor.png" alt="TokenEdittttor Library" width="28" style="vertical-align:center; margin-right:5px;"> [TokenEdittttor](https://github.com/kovs705/TokenEdittttor) - Text Editor that shows AI tokens available (UIKit/SwiftUI)
  - <img src="Resources/NotchTransition.png" alt="NotchTransition Library" width="28" style="vertical-align:center; margin-right:5px;"> [NotchTransition](https://github.com/kovs705/NotchTransition) - Custom navigation transition from the iPhone's notch
  - <img src="Resources/Preview Debugger.png" alt="Preview Debugger Library" width="28" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - Accessibility, UI and locale directly in your SwiftUI testing environment
  - <img src="Resources/AccessDenied.png" alt="Access Denied Library" width="28" style="vertical-align:center; margin-right:5px;"> [AccessDenied](https://github.com/kovs705/AccessDenied) - Hide sensitive content in SwiftUI
