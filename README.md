@@ -10,7 +10,7 @@ A happy dad | Apple platform developer | average Nintendo enjoyer | microcontrol
  - Abstraction in Swift, comparison with Kotlin - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
 
 📦 **My packages:**
-- [🌅 GoldenHour](https://github.com/kovs705/GoldenHour) - Sun position, twilight phases, golden & blue hours, and sky gradient colors
+- <img src="Resources/GoldenHour.png" alt="GoldenHour Library" width="28" style="vertical-align:center; margin-right:5px;"> [GoldenHour](https://github.com/kovs705/GoldenHour) - Sun position, twilight phases, golden & blue hours, and sky gradient colors
 - [🔊 Clackable](https://github.com/kovs705/Clackable) - Bring Duolingo and Nintendo sound experience in your app (SwiftUI)
 - <img src="Resources/TokenEdittttor.png" alt="TokenEdittttor Library" width="28" style="vertical-align:center; margin-right:5px;"> [TokenEdittttor](https://github.com/kovs705/TokenEdittttor) - Text Editor that shows AI tokens available (UIKit/SwiftUI)
  - <img src="Resources/NotchTransition.png" alt="NotchTransition Library" width="28" style="vertical-align:center; margin-right:5px;"> [NotchTransition](https://github.com/kovs705/NotchTransition) - Custom navigation transition from the iPhone's notch
