@@ -5,10 +5,7 @@ A happy dad | Apple platform developer | average Nintendo enjoyer | microcontrol
 🔥 **I’m currently working on:**
  - <img src="Resources/SquidNote.png" alt="SquidNote Application" width="28" style="vertical-align:center; margin-right:5px;"> Squiddy-Labs - my big and ambitious project, AppStore is [**coming soon**]
 
-📚 **My articles:**
- - Abstraction in Swift, comparison with Kotlin - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
-
-📦 **My packages:**
+📦 **Apple Platform packages:**
 - <img src="Resources/GoldenHour.png" alt="GoldenHour Library" width="28" style="vertical-align:center; margin-right:5px;"> [GoldenHour](https://github.com/kovs705/GoldenHour) - Sun position, twilight phases, golden & blue hours, and sky gradient colors
 - <img src="Resources/Clackable.png" alt="Clackable Library" width="28" style="vertical-align:center; margin-right:5px;"> [Clackable](https://github.com/kovs705/Clackable) - Bring Duolingo and Nintendo sound experience to your app (SwiftUI)
 - <img src="Resources/TokenEdittttor.png" alt="TokenEdittttor Library" width="28" style="vertical-align:center; margin-right:5px;"> [TokenEdittttor](https://github.com/kovs705/TokenEdittttor) - Text Editor that shows AI tokens available (UIKit/SwiftUI)
@@ -16,6 +13,9 @@ A happy dad | Apple platform developer | average Nintendo enjoyer | microcontrol
  - <img src="Resources/Preview Debugger.png" alt="Preview Debugger Library" width="28" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - Accessibility, UI and locale directly in your SwiftUI testing environment
  - <img src="Resources/AccessDenied.png" alt="Access Denied Library" width="28" style="vertical-align:center; margin-right:5px;"> [AccessDenied](https://github.com/kovs705/AccessDenied) - Hide sensitive content in SwiftUI
  - <img src="Resources/MDEdittttor.png" alt="MDEdittttor Library" width="28" style="vertical-align:center; margin-right:5px;"> [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
+
+📚 **My articles:**
+ - Abstraction in Swift, comparison with Kotlin - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
 
 🧐 **Additional resources:**
  - 🎨 [Plist2Hex.py](https://gist.github.com/kovs705/ea416d65697ef469c9526465ec6706ce) - Convert Xcode theme to list of HEX colors with titles
