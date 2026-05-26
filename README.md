@@ -1,4 +1,5 @@
-## Hello! こんにちは! Привет! Terve! ¡Hola! 
+## Hello! こんにちは! Привет! Terve! ¡Hola!
+<img src="Resources/kuromi.gif" alt="Kuromi" width="120" style="vertical-align:middle;">
 
 A happy dad | Apple platform developer | average Nintendo enjoyer | microcontroller and single-board computers fan
 
