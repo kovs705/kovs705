@@ -5,6 +5,7 @@ A happy dad | Apple platform developer | average Nintendo enjoyer | microcontrol
 
 🔥 **I’m currently working on:**
  - <img src="Resources/SquidNote.png" alt="SquidNote Application" width="28" style="vertical-align:center; margin-right:5px;"> Squiddy-Labs - my big and ambitious project, AppStore is [**coming soon**]
+ - <img src="Resources/ObsidianWall.png" alt="Obsidian Wall" width="28" style="vertical-align:center; margin-right:5px;"> Obsidian Wall - a cool thing, AppStore is [**coming soon**]
 
 📦 **Apple Platform packages:**
 - <img src="Resources/GoldenHour.png" alt="GoldenHour Library" width="28" style="vertical-align:center; margin-right:5px;"> [GoldenHour](https://github.com/kovs705/GoldenHour) - Sun position, twilight phases, golden & blue hours, and sky gradient colors
