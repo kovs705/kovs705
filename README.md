@@ -5,7 +5,7 @@ A happy dad | Apple platform developer | average Nintendo enjoyer | microcontrol
 
 🔥 **I’m currently working on:**
  - BagLog - Yet another ambitious project, but this is it. Trust me XDD
- - <img src="Resources/SquidNote.png" alt="Squiddy Labs logo" width="28" style="vertical-align:center; margin-right:5px;"> Squiddy Labs - my big and ambitious project, AppStore is [**coming soon**]
+ - <img src="Resources/SquidNote.png" alt="Squiddy Labs logo" width="28" style="vertical-align:center; margin-right:5px;"> Squiddy Labs LLC - my big and ambitious project, AppStore is [**coming soon**]
  - <img src="Resources/ObsidianWall.png" alt="Obsidian Wall" width="28" style="vertical-align:center; margin-right:5px;"> Obsidian Wall - a cool thing, App is [**coming soon**]
 
 📦 **Apple Platform packages:**
