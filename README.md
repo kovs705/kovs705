@@ -1,7 +1,7 @@
 ## Hello! こんにちは! Привет! Terve! ¡Hola!
 <img src="Resources/kuromi.gif" alt="Kuromi" width="120" style="vertical-align:middle;">
 
-A happy dad | Apple platform developer | average Nintendo enjoyer | microcontroller and single-board computers fan
+CEO | Happy dad | Apple platforms developer | average Nintendo enjoyer | microcontroller and single-board computers fan
 
 🔥 **I’m currently working on:**
  - <img src="Resources/BagLog.png" alt="BagLog logo" width="28" style="vertical-align:center; margin-right:5px;"> BagLog - Yet another ambitious project
