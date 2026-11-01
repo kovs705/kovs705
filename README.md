@@ -3,8 +3,15 @@
 
 CEO | Happy dad | Apple platforms developer | average Nintendo enjoyer | microcontroller and single-board computers fan
 
+=====
+Squiddy Labs project board
+
+ - <img src="Resources/SquidBoard.png" alt="Squiddy Labs logo" width="28" style="vertical-align:center; margin-right:5px;"> [SquidBoard](https://apps.apple.com/jp/app/squidboard/id6811436053?l=en-US) - personal, customizable dashboard
+
+====
+
 🔥 **I’m currently working on:**
- - <img src="Resources/SquidNote.png" alt="Squiddy Labs logo" width="28" style="vertical-align:center; margin-right:5px;"> Squiddy Labs LLC - my big and ambitious project, AppStore is [**coming soon**]
+ - <img src="Resources/SquidNote.png" alt="Squiddy Labs logo" width="28" style="vertical-align:center"> Squiddy Labs LLC - my big and ambitious project, AppStore is [**coming soon**]
  - <img src="Resources/ObsidianWall.png" alt="Obsidian Wall" width="28" style="vertical-align:center; margin-right:5px;"> Obsidian Wall - a cool thing, App is [**coming soon**]
 
 📦 **Apple Platform packages:**
