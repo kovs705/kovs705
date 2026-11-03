@@ -23,7 +23,7 @@ CEO | Happy dad | Apple platforms developer | average Nintendo enjoyer | microco
  - Abstraction in Swift, comparison with Kotlin - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
 
 🧐 **Additional resources:**
- - 🧑‍💻 [A better AGENTS.md](https://gist.github.com/kovs705/65d75f25979d85d361fded3d8c3ad989) - my own AGETNS.md I use in iOS projects (SwiftUI)
+ - 🧑‍💻 [A better AGENTS.md](https://gist.github.com/kovs705/65d75f25979d85d361fded3d8c3ad989) - my own AGENTS.md I use in iOS projects (SwiftUI)
  - 🎨 [Plist2Hex.py](https://gist.github.com/kovs705/ea416d65697ef469c9526465ec6706ce) - Convert Xcode theme to list of HEX colors with titles
  - 🌌 [iOS 26 Glass](https://gist.github.com/kovs705/06c770c288e726cb5f862917f899de71) - Support new Glass Effect without errors
  - 📁 [Git ignore](https://github.com/kovs705/KMP-git-ignore) - Git ignore template for iOS project
