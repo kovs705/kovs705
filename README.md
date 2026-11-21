@@ -18,6 +18,7 @@ CEO | Happy dad | Apple platforms developer | average Nintendo enjoyer | microco
  - <img src="Resources/Preview Debugger.png" alt="Preview Debugger Library" width="28" style="vertical-align:center; margin-right:5px;"> [Preview Debugger](https://github.com/kovs705/PreviewDebugger) - Accessibility, UI and locale directly in your SwiftUI testing environment
  - <img src="Resources/AccessDenied.png" alt="Access Denied Library" width="28" style="vertical-align:center; margin-right:5px;"> [AccessDenied](https://github.com/kovs705/AccessDenied) - Hide sensitive content in SwiftUI
  - <img src="Resources/MDEdittttor.png" alt="MDEdittttor Library" width="28" style="vertical-align:center; margin-right:5px;"> [MDEdittttor](https://github.com/kovs705/MDEdittttor) - Markdown Editor Package (UIKit/SwiftUI)
+ - <img src="Resources/Paperize.png" alt="Paperize Library" width="28" style="vertical-align:center; margin-right:5px;"> [Paperize](https://github.com/kovs705/Paperize) - Make any ios app look like it's on an e-ink display (UIKit/SwiftUI)
 
 📚 **My articles:**
  - Abstraction in Swift, comparison with Kotlin - [ENG](https://dev.to/kovs705/abstraction-in-swift-a-comparative-look-at-kotlin-and-swift-4ole), [RU](https://habr.com/ru/articles/782834/)
