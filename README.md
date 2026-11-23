@@ -33,7 +33,4 @@ CEO | Happy dad | Apple platforms developer | average Nintendo enjoyer | microco
  - 🧪 [Useful Links](https://gist.github.com/kovs705/c047c7fb17e0bb788997e7a87b33bb52) - My small list of useful links for better development
 
 📫 **You can also find me there:**
- - [My Gists page](https://gist.github.com/kovs705)
- - [My Telegram](https://t.me/kovs705) - @kovs705
- - [My LinkedIn](https://www.linkedin.com/in/kovs705/)
- - [My Page](https://kovs705.github.io/PVresume/)
+- [My Telegram](https://t.me/kovs705) - @kovs705
